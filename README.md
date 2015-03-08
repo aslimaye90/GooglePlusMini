@@ -1,1 +1,1 @@
-# GooglePlusMini
+# GooglePlusMini - Google+
